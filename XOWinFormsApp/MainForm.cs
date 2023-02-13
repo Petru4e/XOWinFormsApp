@@ -143,15 +143,6 @@ namespace XOWinFormsApp
         private void рестартToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Restart();
-            //foreach (var control in Controls)
-            //{
-            //    if(control is Button)
-            //    {
-            //        Button button = (Button)control;
-            //        button.Text = "";
-            //        button.Enabled = true;
-            //    }
-            //}
         }
 
         private void скинутьСтатистикуToolStripMenuItem_Click(object sender, EventArgs e)
